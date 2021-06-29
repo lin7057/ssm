@@ -2,6 +2,6 @@ package com.aiguigu.git;
 
 public class test {
     public static void main(String[] args) {
-        System.out.println("HELLO2");
+        System.out.println("HELLO3");
     }
 }
